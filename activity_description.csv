@@ -1,0 +1,17 @@
+N,Reporter has only reported one bug as of bug creation date
+M,Reporter has reported  more than one and less than ten bugs prior to bug creation date
+E,Reporter has reported  more than ten bug reports prior to bug creation date
+A,Bug confirmed and assigned to a named developer
+R,Bug confirmed and put to general mailbox for volunteers to work on
+C,A certain person has been copied on the bug report
+D,More than one person has been copied within one hour on the bug report
+V,Developer requested code review
+Y,Response to code review
+S,Developer requested super review
+H,Response to super code review
+F,File exchanged between developers and reporters
+W,Comment exchanged on whiteboard
+L,A Milestone has been set for solution deployment
+P,Priority changed for bug report
+Q,Severity changed for bug report
+Z,Bug reached status resolved
